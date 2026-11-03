@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Ecommerce Order and Fulfillment Service",
+    "folder": "java/ecommerce-order-and-fulfillment-service-java",
+    "repository": "Java",
+    "url": "https://github.com/dev-adelash/Java/tree/main/java/ecommerce-order-and-fulfillment-service-java",
+    "description": "Built a Spring Boot application service for inventory reservations and fulfillment transitions. Added request-key deduplication, expected-version checks and retryable outbox fixtures. Tested concurrent stock requests, repeated cancellation and relay failures with JUnit using local synthetic state."
+  },
+  {
+    "title": "Partner API Gateway",
+    "folder": "java/partner-api-gateway-java",
+    "repository": "Java",
+    "url": "https://github.com/dev-adelash/Java/tree/main/java/partner-api-gateway-java",
+    "description": "Created a Spring Boot partner gateway application with explicit local role checks, versioned contracts and runtime validation. Added a rolling request limit, trace IDs and distinct fixture deadline and dependency errors. Verified permission, contract, timeout and rate-limit behavior with JUnit."
+  },
+  {
+    "title": "Education Assessment and Progress Platform",
+    "folder": "java/education-assessment-and-progress-platform-java",
+    "repository": "Java",
+    "url": "https://github.com/dev-adelash/Java/tree/main/java/education-assessment-and-progress-platform-java",
+    "description": "Implemented Spring Boot assessment workflows with deterministic scores, deadline checks and duplicate-submission protection. Required instructor review for feedback and versioned publication. Tested unauthorized edits and stale approvals with JUnit using synthetic learner records."
+  }
+]
