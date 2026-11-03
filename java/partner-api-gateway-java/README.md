@@ -7,7 +7,7 @@ Created a Spring Boot partner gateway application with explicit local role check
 Start from the `java/` directory of this repository.
 
 ```sh
-mvn spring-boot:run -Dspring-boot.run.arguments="--demo.config=partner-api-gateway-java/project.json"
+sh ./partner-api-gateway-java/run.sh
 ```
 
 The browser console is available at `http://127.0.0.1:8000` for API applications. For frontend applications, use the frontend development server described in the setup below.

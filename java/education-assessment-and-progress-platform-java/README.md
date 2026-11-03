@@ -7,7 +7,7 @@ Implemented Spring Boot assessment workflows with deterministic scores, deadline
 Start from the `java/` directory of this repository.
 
 ```sh
-mvn spring-boot:run -Dspring-boot.run.arguments="--demo.config=education-assessment-and-progress-platform-java/project.json"
+sh ./education-assessment-and-progress-platform-java/run.sh
 ```
 
 The browser console is available at `http://127.0.0.1:8000` for API applications. For frontend applications, use the frontend development server described in the setup below.

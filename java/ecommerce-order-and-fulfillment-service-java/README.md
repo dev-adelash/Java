@@ -7,7 +7,7 @@ Built a Spring Boot application service for inventory reservations and fulfillme
 Start from the `java/` directory of this repository.
 
 ```sh
-mvn spring-boot:run -Dspring-boot.run.arguments="--demo.config=ecommerce-order-and-fulfillment-service-java/project.json"
+sh ./ecommerce-order-and-fulfillment-service-java/run.sh
 ```
 
 The browser console is available at `http://127.0.0.1:8000` for API applications. For frontend applications, use the frontend development server described in the setup below.
