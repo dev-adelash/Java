@@ -32,4 +32,4 @@ Storage is in memory. PostgreSQL/JPA, Redis, Kafka, external identity and Testco
 
 ## Portfolio
 
-[View this stack’s work](https://adelash.vercel.app/java) · [Email Adel Ash](mailto:adelash.work@gmail.com)
+[View this stack’s work](https://adelash.vercel.app/java) · [Email Adel Ash](mailto:tech.dev.workspace@gmail.com)
